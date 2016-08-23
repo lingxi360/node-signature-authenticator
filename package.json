@@ -1,0 +1,11 @@
+{
+  "name": "signature-authenticator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RryLee <qq215672398@126.com> (http://rrylee.github.io/)",
+  "license": "MIT"
+}
